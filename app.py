@@ -31,11 +31,11 @@ def login():
     reply = dialog.detect_intent_texts(case_id, message)
     kayako.send_message(case_id, reply)
 
-    print("="*20)
-    print("New income message")
-    print("Case ID:{}\tMessage: {}".format(case_id, message))
-    print("Bot reply:\t{}".format(reply))
-    print("="*20)
+    logging.info("="*20)
+    logging.info("New income message")
+    logging.info("Case ID:{}\tMessage: {}".format(case_id, message))
+    logging.info("Bot reply:\t{}".format(reply))
+    logging.info("="*20)
     return ''
 
 
