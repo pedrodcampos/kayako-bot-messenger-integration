@@ -1,0 +1,10 @@
+Click==7.0
+dialogflow==0.5.2
+Flask==1.0.2
+Flask-HTTPAuth==3.2.4
+gunicorn
+itsdangerous==1.1.0
+Jinja2==2.10
+MarkupSafe==1.1.0
+python-dotenv==0.10.1
+Werkzeug==0.14.1
