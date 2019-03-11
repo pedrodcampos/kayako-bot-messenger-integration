@@ -1,7 +1,7 @@
 # DialogFlow Chatbot - Kayako Messenger Integration 
 ## Instructions
 Start by cloning this repo: 
-```> git clone https://github.com/trilogy-group/kayako-messenger-bot.git```
+```> git clone https://github.com/pedrodcampos/kayako-bot-messenger-integration.git```
 
 ### Dialogflow Chatbot
 If you have not created your bot yet, proceed to [DialogFlow](https://dialogflow.com/) and create a new one. You can follow this [get started guide]().
